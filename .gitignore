@@ -2,7 +2,7 @@
 .env
 
 # node_module file
-/node_module
+node_modules
 
 # Compiled class file
 *.class
